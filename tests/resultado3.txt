@@ -1,0 +1,23 @@
+[1] - Linha 1: ',' encontrado
+[1] - Linha 1: ',' encontrado
+[1] - Linha 1: ',' encontrado
+[1] - Linha 1: ';' encontrado
+[1] - Linha 1: ';' encontrado
+[1] - Linha 1: ';' encontrado
+[1] - Linha 1: ';' encontrado
+syntax error
+error: unexpected token 'do'
+
+-------------------------------------------------
+*****************SYMBOL TABLE********************
+-------------------------------------------------
+-------------------------------------------------
+| Name                 | Type                 |
+-------------------------------------------------
+| soma                 | INTEGER              |
+| cont                 | INTEGER              |
+| qtd                  | INTEGER              |
+| id                   | INTEGER              |
+-------------------------------------------------
+
+Parse Completed

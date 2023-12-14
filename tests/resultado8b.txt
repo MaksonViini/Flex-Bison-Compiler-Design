@@ -1,0 +1,20 @@
+[1] - Linha 1: ',' encontrado
+[1] - Linha 1: ',' encontrado
+[1] - Linha 1: ';' encontrado
+[1] - Linha 1: ';' encontrado
+syntax error
+error: unexpected token 'read'
+
+-------------------------------------------------
+*****************SYMBOL TABLE********************
+-------------------------------------------------
+-------------------------------------------------
+| Name                 | Type                 |
+-------------------------------------------------
+| result               | INTEGER              |
+| c                    | INTEGER              |
+| b                    | INTEGER              |
+| a                    | INTEGER              |
+-------------------------------------------------
+
+Parse Completed

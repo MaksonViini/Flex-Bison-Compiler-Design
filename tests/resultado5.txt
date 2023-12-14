@@ -1,0 +1,24 @@
+[1] - Linha 1: ',' encontrado
+[1] - Linha 1: ';' encontrado
+[1] - Linha 1: '(' encontrado
+[1] - Linha 1: ')' encontrado
+[1] - Linha 1: ';' encontrado
+[1] - Linha 1: '(' encontrado
+[1] - Linha 1: ')' encontrado
+[1] - Linha 1: ';' encontrado
+[1] - Linha 1: '(' encontrado
+[1] - Linha 1: '<>' encontrado
+syntax error
+error: unexpected token '<>'
+
+-------------------------------------------------
+*****************SYMBOL TABLE********************
+-------------------------------------------------
+-------------------------------------------------
+| Name                 | Type                 |
+-------------------------------------------------
+| k                    | INTEGER              |
+| j                    | INTEGER              |
+-------------------------------------------------
+
+Parse Completed

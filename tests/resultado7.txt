@@ -1,0 +1,33 @@
+[1] - Linha 1: ',' encontrado
+[1] - Linha 1: ',' encontrado
+[1] - Linha 1: ',' encontrado
+[1] - Linha 1: ';' encontrado
+[1] - Linha 1: '(' encontrado
+[1] - Linha 1: ')' encontrado
+[1] - Linha 1: ';' encontrado
+[1] - Linha 1: '(' encontrado
+[1] - Linha 1: ')' encontrado
+[1] - Linha 1: ';' encontrado
+[1] - Linha 1: '(' encontrado
+[1] - Linha 1: ')' encontrado
+[1] - Linha 1: ';' encontrado
+[1] - Linha 1: '(' encontrado
+[1] - Linha 1: '>' encontrado
+[1] - Linha 1: '>' encontrado
+[1] - Linha 1: ')' encontrado
+syntax error
+error: unexpected token '?'
+
+-------------------------------------------------
+*****************SYMBOL TABLE********************
+-------------------------------------------------
+-------------------------------------------------
+| Name                 | Type                 |
+-------------------------------------------------
+| maior                | INTEGER              |
+| c                    | INTEGER              |
+| b                    | INTEGER              |
+| a                    | INTEGER              |
+-------------------------------------------------
+
+Parse Completed

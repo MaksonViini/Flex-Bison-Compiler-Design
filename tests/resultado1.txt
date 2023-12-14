@@ -1,0 +1,39 @@
+[1] - Linha 1: ',' encontrado
+[1] - Linha 1: ',' encontrado
+[1] - Linha 1: ';' encontrado
+[1] - Linha 1: ';' encontrado
+[1] - Linha 1: '(' encontrado
+[1] - Linha 1: ')' encontrado
+[1] - Linha 1: ';' encontrado
+[1] - Linha 1: '(' encontrado
+[1] - Linha 1: ')' encontrado
+[1] - Linha 1: ';' encontrado
+[1] - Linha 1: ';' encontrado
+[1] - Linha 1: '(' encontrado
+[1] - Linha 1: '*' encontrado
+[1] - Linha 1: ')' encontrado
+[1] - Linha 1: '/' encontrado
+[1] - Linha 1: '(' encontrado
+[1] - Linha 1: '+' encontrado
+[2] - Linha 2: '%' encontrado
+[2] - Linha 2: '-' encontrado
+[2] - Linha 2: ')' encontrado
+[2] - Linha 2: ';' encontrado
+[2] - Linha 2: '(' encontrado
+[2] - Linha 2: ')' encontrado
+syntax error
+error: unexpected token 'end'
+
+-------------------------------------------------
+*****************SYMBOL TABLE********************
+-------------------------------------------------
+-------------------------------------------------
+| Name                 | Type                 |
+-------------------------------------------------
+| result               | INTEGER              |
+| c                    | INTEGER              |
+| b                    | INTEGER              |
+| a                    | INTEGER              |
+-------------------------------------------------
+
+Parse Completed
